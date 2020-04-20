@@ -1,0 +1,20 @@
+﻿Legenda
+-999 Valore mancante o invalido
+Legenda dei valori speciali
+Valore, Descrizione
+777,calma
+7777,calma
+888,variabile
+8888,variabile
+Nota: i gradi di Direzione del Vento sono riferiti al Nord
+
+Riepilogo estrazione
+Id_Stazione,Nome_Stazione,Id_Sensore,Nome_Sensore,Unita_Misura,Periodo_Dal,Periodo_Al,Operatore
+100,Milano Lambrate,2006,Precipitazione,mm,2019/01/01 00:00,2020/01/01 00:00,Cumulata
+525,Corsico v.le Italia,5902,Precipitazione,mm,2019/01/01 00:00,2020/01/01 00:00,Cumulata
+502,Milano v.Juvara,5908,Precipitazione,mm,2019/01/01 00:00,2020/01/01 00:00,Cumulata
+890,Milano v.Confalonieri,8149,Precipitazione,mm,2019/01/01 00:00,2020/01/01 00:00,Cumulata
+503,Milano P.zza Zavattari,9341,Precipitazione,mm,2019/01/01 00:00,2020/01/01 00:00,Cumulata
+1327,Milano v.Rosellini,14121,Precipitazione,mm,2019/01/01 00:00,2020/01/01 00:00,Cumulata
+620,Milano v.Brera,19373,Precipitazione,mm,2019/01/01 00:00,2020/01/01 00:00,Cumulata
+I dati sono estratti in ORA SOLARE (UTC + 1)
