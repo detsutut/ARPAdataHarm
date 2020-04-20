@@ -2,7 +2,7 @@ library(data.table)
 library(dplyr)
 library(purrr)
 
-homedir = "E:/Google Drive (Lavoro)/3. TowardsDataScience/lombardyPollution/git/data"
+homedir = "yourDirectoryGoesHere"
 setwd(file.path(homedir,'aria'))
 
 # Sensors
